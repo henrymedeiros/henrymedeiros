@@ -8,7 +8,8 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou estudante e Front-End Devloper :computer:
 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React/Vue.js
+ 
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> 💬  &nbsp; Sobre mim: Tenho interesse em design, automação de pequenas tarefas e apaixonado por games.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HenryMedeiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-medeiros77/)](https://www.linkedin.com/in/henry-medeiros77/) 
