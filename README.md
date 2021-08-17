@@ -7,6 +7,7 @@
 * 🌱 Atualmente estou aprendendo:  [![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=ffffff)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/-JavaScript-23F7DF1C?&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![Pandas](https://img.shields.io/badge/-pandas-150458?&logo=pandas&logoColor=ffffff)](https://pandas.pydata.org)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?&logo=vue.js&logoColor=ffffff)](https://vuejs.org)
+[![Django](https://img.shields.io/badge/-django-4FC08D?&logo=vue.js&logoColor=ffffff)](#)
     * Tenho crescente interesse em soluções que envolvem automação de processos, Data Science e Web Scraping utilizando Python e suas bibliotecas (Pandas, BS4, Selenium, etc...)!   
 
 * ✉️ Você podem me encontrar aqui: 
