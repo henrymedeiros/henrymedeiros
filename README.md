@@ -14,12 +14,12 @@
 ```
 
 
-* ✉️ Contato: 
+## Contact: 
     [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=ffffff)](mailto:henrymedeiros77@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/henry-medeiros77/) [![Behance](https://img.shields.io/badge/Behance-1769FF.svg?&logo=behance&logoColor=ffffff)](https://www.behance.net/henry_medeiros77)
 
 
 
-## Minha Stack
+## Stack
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-23F7DF1C?&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
