@@ -12,7 +12,6 @@ Texto
     "OS": ['Kubuntu', 'Windows 10']
 ],
 "interests": ['Crypto', 'Fitness', 'Automation', 'Gaming']
-
 }```
 
 
