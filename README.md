@@ -1,18 +1,17 @@
-# Opa, beleza? <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="36px" alt="hi">
-
-Texto
-```{
-"name": "Henry Medeiros",
-"age": 20,
-"stack": ['Python', 'Javascript', 'HTLM5', 'CSS3', 'Bootstrap', 'TailwindCSS']
-"learning": ['Python', 'Pandas', 'Javascript', 'Vue.js', 'Flask', 'SQL'],
-"tools": [
-    "IDE": 'VSCode',
-    "design": ['Adobe Photoshop', 'Adobe Illustrator', 'Figma'],
-    "OS": ['Kubuntu', 'Windows 10']
-],
-"interests": ['Crypto', 'Fitness', 'Automation', 'Gaming']
-}```
+```
+{
+    "name": "Henry Medeiros",
+    "age": 20,
+    "stack": ['Python', 'Javascript', 'HTLM5', 'CSS3', 'Bootstrap', 'TailwindCSS']
+    "learning": ['Python', 'Pandas', 'Javascript', 'Vue.js', 'Flask', 'SQL'],
+    "tools": [
+        "IDE": 'VSCode',
+        "design": ['Adobe Photoshop', 'Adobe Illustrator', 'Figma'],
+        "OS": ['Kubuntu', 'Windows 10']
+    ],
+    "interests": ['Crypto', 'Fitness', 'Automation', 'Gaming']
+}
+```
 
 
 ### ✉️ Contato: 
