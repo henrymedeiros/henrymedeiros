@@ -36,8 +36,9 @@
 
 
 ## Status
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=henrymedeiros&show_icons=true&theme=tokyonight" alt="cxyfreedom" /></p>
+<p align="center">
+    <p><img src="https://github-readme-stats.vercel.app/api?username=henrymedeiros&show_icons=true&theme=tokyonight"/></p>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrymedeiros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
