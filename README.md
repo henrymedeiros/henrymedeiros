@@ -9,7 +9,7 @@
         "design": ['Adobe Photoshop', 'Adobe Illustrator', 'Figma'],
         "OS": ['Kubuntu', 'Windows 10']
     ],
-    "interests": ['Crypto', 'Fitness', 'Automation', 'Gaming']
+    "interests": ['Crypto', 'Fitness', 'Automation', 'Gaming', 'Art']
 }
 ```
 
