@@ -39,6 +39,23 @@
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
+```{
+"name": "Henry Medeiros",
+"age": 20,
+"stack": ['Python', 'Javascript', 'HTLM5', 'CSS3', 'Bootstrap', 'TailwindCSS']
+"learning": ['Python', 'Pandas', 'Javascript', 'Vue.js', 'Flask', 'SQL'],
+"tools": [
+    "IDE": 'VsCode',
+    "design": ['Adobe Photoshop', 'Adobe Illustrator', 'Figma'],
+    "systems": ['Kubuntu', 'Windows 10']
+],
+"interests": ['Crypto', 'Fitness', 'Automation', 'Gaming']
+
+}```
+
+
+
+
 ## Status
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=henrymedeiros&show_icons=true&theme=tokyonight" alt="cxyfreedom" /></p>
