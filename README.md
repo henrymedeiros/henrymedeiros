@@ -14,7 +14,7 @@
 ```
 
 
-### ✉️ Contato: 
+* ✉️ Contato: 
     [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=ffffff)](mailto:henrymedeiros77@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/henry-medeiros77/) [![Behance](https://img.shields.io/badge/Behance-1769FF.svg?&logo=behance&logoColor=ffffff)](https://www.behance.net/henry_medeiros77)
 
 
