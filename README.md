@@ -3,7 +3,7 @@
     "name": "Henry Medeiros",
     "age": 20,
     "stack": ['Python', 'Javascript', 'HTLM5', 'CSS3', 'Bootstrap', 'TailwindCSS']
-    "learning": ['Python', 'Pandas', 'Javascript', 'Vue.js', 'Flask', 'SQL'],
+    "learning": ['Python', 'Javascript', 'Vue.js', 'Django', 'SQL'],
     "tools": [
         "IDE": 'VSCode',
         "design": ['Adobe Photoshop', 'Adobe Illustrator', 'Figma'],
