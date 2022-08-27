@@ -2,8 +2,8 @@
 {
     "name": "Henry Medeiros",
     "age": 20,
-    "stack": ['Python', 'Javascript', 'HTLM5', 'CSS3', 'Bootstrap', 'TailwindCSS']
-    "learning": ['Python', 'Javascript', 'React.js', 'Flask', 'MongoDB','SQL', Flutter],
+    "stack": ['Python', 'Javascript', 'HTLM5', 'CSS3', 'React.js', 'Bootstrap', 'TailwindCSS']
+    "learning": ['Flask', 'MongoDB','SQL', Flutter],
     "tools": [
         "IDE": 'VSCode',
         "design": ['Adobe Photoshop', 'Adobe Illustrator', 'Figma'],
