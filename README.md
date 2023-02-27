@@ -13,6 +13,7 @@
 ```
 
 [![Next][Next.js]][Next-url]
+[![Javascript][Javascript]][Javascript-url]
 [![React][React.js]][React-url]
 
 ## ![lol](https://user-images.githubusercontent.com/66380727/132999223-24364a80-d86e-495d-b3e9-661bc9cfd7b5.gif)Contact
@@ -41,8 +42,8 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+[Javascript]: https://img.shields.io/badge/?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[Javascript-url]: https://www.javascript.com/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 
