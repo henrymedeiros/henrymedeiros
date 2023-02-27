@@ -11,8 +11,7 @@
     "interests": ['Crypto', 'Fitness', 'Automation', 'Gaming', 'Art']
 }
 ```
-[![Python][Python]][Python-url]
-[![Python][Python]][Python-url]
+
 [![Next][Next.js]][Next-url]
 [![React][React.js]][React-url]
 
