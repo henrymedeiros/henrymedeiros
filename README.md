@@ -1,7 +1,6 @@
 ```
 {
     "name": "Henry Medeiros",
-    "age": 21,
     "stack": ['Python', 'Javascript', 'HTLM5', 'CSS3', 'React.js', 'Bootstrap', 'TailwindCSS']
     "learning": ['MongoDB','SQL', 'Flutter', 'Typescript'],
     "tools": [
@@ -12,7 +11,10 @@
     "interests": ['Crypto', 'Fitness', 'Automation', 'Gaming', 'Art']
 }
 ```
-
+[![Python][Python]][Python-url]
+[![Python][Python]][Python-url]
+[![Next][Next.js]][Next-url]
+[![React][React.js]][React-url]
 
 ## ![lol](https://user-images.githubusercontent.com/66380727/132999223-24364a80-d86e-495d-b3e9-661bc9cfd7b5.gif)Contact
 
@@ -34,6 +36,14 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrymedeiros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
 
 
 
