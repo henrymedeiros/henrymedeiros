@@ -1,54 +1,50 @@
-```
-{
-    "name": "Henry Medeiros",
-    "stack": ['Python', 'Javascript', 'HTLM5', 'CSS3', 'React.js', 'Bootstrap', 'TailwindCSS']
-    "learning": ['MongoDB','SQL', 'Flutter', 'Typescript'],
-    "tools": [
-        "IDE": 'VSCode',
-        "design": ['Adobe Photoshop', 'Adobe Illustrator', 'Figma'],
-        "OS": ['PopOS', 'Windows 10']
-    ],
-    "interests": ['Crypto', 'Fitness', 'Automation', 'Gaming', 'Art']
-}
-```
+<p align = center ><img src="https://i.imgur.com/qApny8S.png"> </p>
 
-[![Next][Next.js]][Next-url]
-[![Javascript][Javascript]][Javascript-url]
-[![React][React.js]][React-url]
+<div>
 
-## ![lol](https://user-images.githubusercontent.com/66380727/132999223-24364a80-d86e-495d-b3e9-661bc9cfd7b5.gif)Contact
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/v5UMp4E.png"/>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=ffffff)](mailto:henrymedeiros77@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/henry-medeiros77/) [![Behance](https://img.shields.io/badge/Behance-1769FF.svg?&logo=behance&logoColor=ffffff)](https://www.behance.net/henry_medeiros77)
+<h2> // About me </h2>
 
+- Currently working as a **front-end developer**
+- Seeking to  become a **full-stack developer**
+- I'm also pursuing a bachelors degree in  **software engineering**
 
-## ![lol](https://user-images.githubusercontent.com/66380727/132999223-24364a80-d86e-495d-b3e9-661bc9cfd7b5.gif)Stack
-[![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-23F7DF1C?&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
+  
+<h2>  // Skills  </h2>
+  
+- <h4> // programming & markup languages </h4>
+  
+  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
+  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
+  <img src = "https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
+  <img src = "	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt = "python" />
+  
+  - <h5> // currently learning </h5>
+    <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
+    
+  
+- <h4> // frameworks & libraries </h4>
+  <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" />
+  <img src = "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt = "bootstrap5" />
+  <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt = "tailwind" />
+  
+- <h4> // tools </h4>
+    <img src = "https://img.shields.io/badge/figma-7434a4?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
+  <img src = "https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=" alt = "photoshop" />
+  <img src = "https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=f8a829" alt = "illustrator" />
+  
+  - <h5> // currently learning </h5>
+  
+    <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
+  
+  </br></br>
+  
+<div align="right">
+<a href="">Image by </a>
+  </div>
+  </div>
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=ffffff)](#)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=ffffff)](#)
-[![SASS](https://img.shields.io/badge/-SASS-CC6699?&logo=Sass&logoColor=ffffff)](#)
+<!---
 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=Bootstrap&logoColor=ffffff)](https://getbootstrap.com)
-[![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?&logo=tailwind-css20kafka&logoColor=ffffff)](https://tailwindcss.com)
-[![Git](https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrymedeiros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Javascript]: https://img.shields.io/badge/?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[Javascript-url]: https://www.javascript.com/
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-
-
-
-
-
-
-
+--->
