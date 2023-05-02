@@ -1,4 +1,4 @@
-<p align = center ><img src="<!-- Optional banner goes here-->"> </p>
+<p align = center ><!-- Optional banner goes here--> </p>
 
 <div>
 
