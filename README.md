@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/v5UMp4E.png"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/originals/8b/bc/d6/8bbcd61e8e0a5a382be4802b620c6f6f.jpg"/>
 
 <h2> // About me </h2>
 
@@ -34,7 +34,7 @@
   <img src = "https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=f8a829" alt = "illustrator" />
   
-  - <h4 currently learning </h4>
+  - <h4> currently learning </h4>
   
     <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
   
