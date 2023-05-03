@@ -2,13 +2,14 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/originals/8b/bc/d6/8bbcd61e8e0a5a382be4802b620c6f6f.jpg"/>
+<img align="right" width="400" alt="Shimarin" src="https://im.ezgif.com/tmp/ezgif-1-46c1a79ebf.gif"/>
 
 <h2> // About me </h2>
 
 - Currently working as a **front-end developer**
 - Seeking to  become a **full-stack developer**
 - I'm also pursuing a bachelors degree in  **software engineering**
+- Games enjoyer (specially soulsborne and fighting games) 
 
   
 <h2>  // Skills  </h2>
@@ -17,6 +18,7 @@
   
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
+  <img src = "https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt = "sass" />
   <img src = "https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
   <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt = "python" />
   
@@ -31,12 +33,14 @@
   
 - <h3> tools </h3>
     <img src = "https://img.shields.io/badge/figma-7434a4?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
+    <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt = "git" />
   <img src = "https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=f8a829" alt = "illustrator" />
   
   - <h4> currently learning </h4>
   
     <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
+    
   
   </br></br>
   
