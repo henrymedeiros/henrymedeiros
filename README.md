@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="[https://im.ezgif.com/tmp/ezgif-1-59a0a3dd8f.gif](https://im.ezgif.com/tmp/ezgif-1-59a0a3dd8f.gif)">
+<img align="right" width="400" alt="Shimarin" src="[[https://im.ezgif.com/tmp/ezgif-1-59a0a3dd8f.gif](https://im.ezgif.com/tmp/ezgif-1-59a0a3dd8f.gif)](https://wallpapersmug.com/download/1080x1920/f80e73/minimal-landscape-sunset-4k.jpg)">
 
 <h2> // About me </h2>
 
