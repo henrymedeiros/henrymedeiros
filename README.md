@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="wallpaper" src="https://im.ezgif.com/tmp/ezgif-1-46c1a79ebf.gif"/>
+<img align="right" width="400" alt="Shimarin" src="https://im.ezgif.com/tmp/ezgif-1-46c1a79ebf.gif"/>
 
 <h2> // About me </h2>
 
