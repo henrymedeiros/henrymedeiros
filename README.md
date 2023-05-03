@@ -43,11 +43,6 @@
   
   </br></br>
   
-<div align="right">
-<a href="">Image by </a>
-  </div>
-  </div>
-
 <!---
 
 --->
