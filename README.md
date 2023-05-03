@@ -2,14 +2,13 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="[[https://im.ezgif.com/tmp/ezgif-1-59a0a3dd8f.gif](https://im.ezgif.com/tmp/ezgif-1-59a0a3dd8f.gif)](https://wallpapersmug.com/download/1080x1920/f80e73/minimal-landscape-sunset-4k.jpg)">
+<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
 
 <h2> // About me </h2>
 
-- Currently working as a **front-end developer**
-- Seeking to  become a **full-stack developer**
-- I'm also pursuing a bachelors degree in  **software engineering**
-- Games enjoyer (specially soulsborne and fighting games) 
+- 👨‍💻 Currently working as a **front-end developer**
+- 🤓 Seeking to  become a **full-stack developer**
+- 🎓 I'm also pursuing a bachelors degree in  **software engineering**
 
   
 <h2>  // Skills  </h2>
