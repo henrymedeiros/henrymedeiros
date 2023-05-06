@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="375" alt="wallpaper" src="https://i.imgur.com/ccifEY0.png"/>
+<img align="right" width="375" alt="wallpaper" src="https://i.imgur.com/a13Igzr.png">
 
 <h2> // About me </h2>
 
