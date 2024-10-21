@@ -8,7 +8,8 @@
 
 - 👨‍💻 Currently working as a **front-end developer**
 - 🤓 Seeking to  become a **full-stack developer**
-- 🎓 I'm also pursuing a bachelors degree in  **software engineering**
+- 🤓 Learning **mobile developement**
+- 🎓 Pursuing my bachelors degree in  **software engineering**
 - ⚙️ Specialist in **Web Automation** and **RPA (Robotic process automation)**
 
   
