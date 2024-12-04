@@ -40,7 +40,7 @@
   
   - <h4> currently learning </h4>
   
-    <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
+    <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" /> 
     
 
 <!---
