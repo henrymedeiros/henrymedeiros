@@ -6,9 +6,7 @@
 
 <h2> // About me </h2>
 
-- 👨‍💻 Currently working as a **front-end developer**
-- 🤓 Seeking to  become a **full-stack developer**
-- 🤓 Learning **mobile developement**
+- 👨‍💻 Currently working as a **full-stack developer**
 - 🎓 Pursuing my bachelors degree in  **software engineering**
 - ⚙️ Specialist in **Web Automation** and **RPA (Robotic process automation)**
 
